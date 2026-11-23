@@ -1,0 +1,6 @@
+{
+  "name": "VazãoLab — Simulador de Vazão e Enchimento",
+  "description": "Aplicativo interativo para estudantes aprenderem cálculo de área, vazão hidráulica e tempo de enchimento de reservatórios passo a passo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
